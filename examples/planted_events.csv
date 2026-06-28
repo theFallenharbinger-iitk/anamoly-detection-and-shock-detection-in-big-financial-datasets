@@ -1,0 +1,15 @@
+date,event_type,plain_reason
+2021-09-10,market_crash,Almost every asset dropped on the same day.
+2021-09-13,market_crash,Almost every asset dropped on the same day.
+2021-09-14,market_crash,Almost every asset dropped on the same day.
+2022-08-04,sector_shock,One sector moved much more than the rest of the market.
+2022-08-05,sector_shock,One sector moved much more than the rest of the market.
+2023-06-15,volatility_burst,Many assets became unusually jumpy at the same time.
+2023-06-16,volatility_burst,Many assets became unusually jumpy at the same time.
+2023-06-19,volatility_burst,Many assets became unusually jumpy at the same time.
+2023-06-20,volatility_burst,Many assets became unusually jumpy at the same time.
+2023-06-21,volatility_burst,Many assets became unusually jumpy at the same time.
+2023-06-22,volatility_burst,Many assets became unusually jumpy at the same time.
+2023-10-06,single_asset_spike,One asset moved far more than its usual daily range.
+2023-11-27,single_asset_spike,One asset moved far more than its usual daily range.
+2024-02-09,single_asset_spike,One asset moved far more than its usual daily range.

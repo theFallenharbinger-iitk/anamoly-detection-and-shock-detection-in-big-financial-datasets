@@ -1,0 +1,40 @@
+period_id,period_start,period_end,similar_rank,similar_period_id,similar_start,similar_end,similarity_score,shared_pattern
+1,2020-02-27,2020-03-02,1,12,2025-04-03,2025-04-16,0.9175198335293167,"stock selloff / plummeting price, volatility burst"
+1,2020-02-27,2020-03-02,2,13,2026-06-25,2026-06-25,0.8797460525403131,"violent one-day price movement, volume shock, market or peer selloff pressure"
+1,2020-02-27,2020-03-02,3,8,2022-05-11,2022-05-11,0.8452329978562512,"violent one-day price movement, volatility burst"
+2,2020-03-09,2020-04-06,1,12,2025-04-03,2025-04-16,0.9293576931939046,"stock selloff / plummeting price, volatility burst"
+2,2020-03-09,2020-04-06,2,1,2020-02-27,2020-03-02,0.7996797124653363,violent one-day price movement
+2,2020-03-09,2020-04-06,3,8,2022-05-11,2022-05-11,0.7208496205112223,"violent one-day price movement, volatility burst"
+3,2020-04-14,2020-04-21,1,4,2020-07-31,2020-08-06,0.7393483677091451,"stock spike or rebound, volatility burst"
+3,2020-04-14,2020-04-21,2,5,2020-08-21,2020-08-21,0.702067856845409,violent one-day price movement
+3,2020-04-14,2020-04-21,3,7,2020-10-12,2020-10-12,0.6092934688465376,"violent one-day price movement, volatility burst, volume shock"
+4,2020-07-31,2020-08-06,1,5,2020-08-21,2020-08-21,0.8788896945685607,violent one-day price movement
+4,2020-07-31,2020-08-06,2,7,2020-10-12,2020-10-12,0.7906189560392477,"violent one-day price movement, volatility burst, volume shock"
+4,2020-07-31,2020-08-06,3,3,2020-04-14,2020-04-21,0.7393483677091451,volatility burst
+5,2020-08-21,2020-08-21,1,4,2020-07-31,2020-08-06,0.8788896945685607,"stock spike or rebound, volatility burst"
+5,2020-08-21,2020-08-21,2,7,2020-10-12,2020-10-12,0.7419429415241894,"violent one-day price movement, volatility burst, volume shock"
+5,2020-08-21,2020-08-21,3,3,2020-04-14,2020-04-21,0.702067856845409,volatility burst
+6,2020-09-03,2020-09-09,1,8,2022-05-11,2022-05-11,0.8317385139042153,"violent one-day price movement, volatility burst"
+6,2020-09-03,2020-09-09,2,12,2025-04-03,2025-04-16,0.825639725035089,"stock selloff / plummeting price, volatility burst"
+6,2020-09-03,2020-09-09,3,1,2020-02-27,2020-03-02,0.7952302363748606,violent one-day price movement
+7,2020-10-12,2020-10-12,1,11,2022-11-10,2022-11-10,0.8429996979009092,"stock spike or rebound, volume shock, market or peer rally pressure"
+7,2020-10-12,2020-10-12,2,4,2020-07-31,2020-08-06,0.7906189560392477,"stock spike or rebound, volatility burst"
+7,2020-10-12,2020-10-12,3,5,2020-08-21,2020-08-21,0.7419429415241894,violent one-day price movement
+8,2022-05-11,2022-05-11,1,10,2022-06-13,2022-06-13,0.9175256605107855,market or peer selloff pressure
+8,2022-05-11,2022-05-11,2,9,2022-05-18,2022-05-18,0.8971174368147654,"violent one-day price movement, market or peer selloff pressure"
+8,2022-05-11,2022-05-11,3,12,2025-04-03,2025-04-16,0.8659410523298303,"stock selloff / plummeting price, volatility burst"
+9,2022-05-18,2022-05-18,1,8,2022-05-11,2022-05-11,0.8971174368147654,"violent one-day price movement, volatility burst"
+9,2022-05-18,2022-05-18,2,10,2022-06-13,2022-06-13,0.8451243131453204,market or peer selloff pressure
+9,2022-05-18,2022-05-18,3,12,2025-04-03,2025-04-16,0.7616393904147365,"stock selloff / plummeting price, volatility burst"
+10,2022-06-13,2022-06-13,1,8,2022-05-11,2022-05-11,0.9175256605107855,"violent one-day price movement, volatility burst"
+10,2022-06-13,2022-06-13,2,9,2022-05-18,2022-05-18,0.8451243131453204,"violent one-day price movement, market or peer selloff pressure"
+10,2022-06-13,2022-06-13,3,13,2026-06-25,2026-06-25,0.8194937833941758,"violent one-day price movement, volume shock, market or peer selloff pressure"
+11,2022-11-10,2022-11-10,1,7,2020-10-12,2020-10-12,0.8429996979009092,"violent one-day price movement, volatility burst, volume shock"
+11,2022-11-10,2022-11-10,2,4,2020-07-31,2020-08-06,0.5632829217784131,"stock spike or rebound, volatility burst"
+11,2022-11-10,2022-11-10,3,5,2020-08-21,2020-08-21,0.4570657030196801,violent one-day price movement
+12,2025-04-03,2025-04-16,1,2,2020-03-09,2020-04-06,0.9293576931939046,"stock selloff / plummeting price, volatility burst, stock fell while market was positive"
+12,2025-04-03,2025-04-16,2,1,2020-02-27,2020-03-02,0.9175198335293167,violent one-day price movement
+12,2025-04-03,2025-04-16,3,8,2022-05-11,2022-05-11,0.8659410523298303,"violent one-day price movement, volatility burst"
+13,2026-06-25,2026-06-25,1,1,2020-02-27,2020-03-02,0.8797460525403131,violent one-day price movement
+13,2026-06-25,2026-06-25,2,10,2022-06-13,2022-06-13,0.8194937833941758,market or peer selloff pressure
+13,2026-06-25,2026-06-25,3,8,2022-05-11,2022-05-11,0.7717349528839732,"violent one-day price movement, volatility burst"
